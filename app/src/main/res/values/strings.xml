@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Medecine</string>
+
+
+    <string name="add_meet">Записатьзя на прием</string>
+    <string name="f_name_txt">Имя</string>
+    <string name="s_name_txt">Фамилия</string>
+    <string name="l_name_txt">Отчество</string>
+    <string name="doctor_prof_txt">Врач</string>
+    <string name="doctor_name">Имя врача</string>
+    <string name="date_txt">Дата приема</string>
+    <string name="time_txt">Время приема</string>
+</resources>
